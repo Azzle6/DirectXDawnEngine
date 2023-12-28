@@ -19,6 +19,9 @@
     <Filter Include="DawnEngine\GraphicsEngine\DeviceContext">
       <UniqueIdentifier>{b15b3045-91b8-4e2e-96ff-f8321a63856b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="DawnEngine\GraphicsEngine\VertexBuffer">
+      <UniqueIdentifier>{7902f208-160b-466f-86e6-5a271e1e5ec1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -39,6 +42,9 @@
     <ClCompile Include="DeviceContext.cpp">
       <Filter>DawnEngine\GraphicsEngine\DeviceContext</Filter>
     </ClCompile>
+    <ClCompile Include="VertexBuffer.cpp">
+      <Filter>DawnEngine\GraphicsEngine\VertexBuffer</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AppWindow.h">
@@ -55,6 +61,9 @@
     </ClInclude>
     <ClInclude Include="DeviceContext.h">
       <Filter>DawnEngine\GraphicsEngine\DeviceContext</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBuffer.h">
+      <Filter>DawnEngine\GraphicsEngine\VertexBuffer</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
