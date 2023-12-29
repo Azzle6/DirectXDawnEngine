@@ -1,7 +1,7 @@
-D:\Visual projects\DirectXGame\AppWindow.cpp;D:\Visual projects\DirectXGame\x64\Debug\AppWindow.obj
-D:\Visual projects\DirectXGame\DeviceContext.cpp;D:\Visual projects\DirectXGame\x64\Debug\DeviceContext.obj
-D:\Visual projects\DirectXGame\GraphicsEngine.cpp;D:\Visual projects\DirectXGame\x64\Debug\GraphicsEngine.obj
-D:\Visual projects\DirectXGame\main.cpp;D:\Visual projects\DirectXGame\x64\Debug\main.obj
-D:\Visual projects\DirectXGame\SwapChain.cpp;D:\Visual projects\DirectXGame\x64\Debug\SwapChain.obj
-D:\Visual projects\DirectXGame\VertexBuffer.cpp;D:\Visual projects\DirectXGame\x64\Debug\VertexBuffer.obj
-D:\Visual projects\DirectXGame\Window.cpp;D:\Visual projects\DirectXGame\x64\Debug\Window.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\AppWindow.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\AppWindow.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\DeviceContext.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\DeviceContext.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\GraphicsEngine.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\GraphicsEngine.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\main.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\main.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\SwapChain.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\SwapChain.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\VertexBuffer.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\VertexBuffer.obj
+D:\Repositories\DirectXDawnEngine\DirectXGame\Window.cpp;D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\Window.obj

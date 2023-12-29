@@ -1,1 +1,2 @@
 D:\Visual projects\DirectXGame\x64\Debug\DirectXGame.exe
+D:\Repositories\DirectXDawnEngine\DirectXGame\x64\Debug\DirectXGame.exe
